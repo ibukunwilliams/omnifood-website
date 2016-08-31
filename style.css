@@ -31,8 +31,8 @@ body {
 }
 
 header{
-    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(Omnifood%20Contents/beach.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(Omnifood%20Contents/beach.jpg);/*creates a background image of the linear gradient from top to bottom of black alpha .7 to black alpha .7. Then, after the , we put the image under it*/
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(Omnifood%20Contents/hero.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(Omnifood%20Contents/hero.jpg);/*creates a background image of the linear gradient from top to bottom of black alpha .7 to black alpha .7. Then, after the , we put the image under it*/
     background-size: cover;/*will cover the width*/
     background-position: center;
     background-attachment: fixed;/*the background attachment (which is our image and gradient) will reamin fixed in background(will not move with scroll)*/
